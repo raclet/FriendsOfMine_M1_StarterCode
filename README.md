@@ -2,7 +2,7 @@
 
 Une fois le projet importé, créez manuellement les "issues" suivantes :
 
-* Partie 2 : création d'une et d'un contrôleur basique
+* Partie 2 : création d'une vue et d'un contrôleur basique
 * Partie 3a : classe du domaine Article
 * Partie 3b: classe du domaine Activite et Utilisateur
 * Partie 4 : mise en place d'un jeu de données
