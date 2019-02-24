@@ -1,4 +1,4 @@
-# FriendsOfMine_M1_StarterCode
+# FriendsOfMine_M1
 
 ### NOM :
 ### Prénom :
